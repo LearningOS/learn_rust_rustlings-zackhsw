@@ -1,7 +1,7 @@
 // functions3.rs
 // Make me compile! Execute `rustlings hint functions3` for hints :)
 
-// I AM NOT DONE
+//
 
 fn main() {
     let num :u32=9;

@@ -1,7 +1,7 @@
 // structs2.rs
 // Address all the TODOs to make the tests pass!
 
-// I AM NOT DONE
+//
 
 #[derive(Debug)]
 struct Order {
